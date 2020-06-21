@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/salary/static/css/main.051db9bb.chunk.css",
+    "main.js": "/salary/static/js/main.11847f81.chunk.js",
+    "main.js.map": "/salary/static/js/main.11847f81.chunk.js.map",
+    "runtime-main.js": "/salary/static/js/runtime-main.1388e4ce.js",
+    "runtime-main.js.map": "/salary/static/js/runtime-main.1388e4ce.js.map",
+    "static/css/2.36020323.chunk.css": "/salary/static/css/2.36020323.chunk.css",
+    "static/js/2.7be13fa5.chunk.js": "/salary/static/js/2.7be13fa5.chunk.js",
+    "static/js/2.7be13fa5.chunk.js.map": "/salary/static/js/2.7be13fa5.chunk.js.map",
+    "index.html": "/salary/index.html",
+    "precache-manifest.27041cbe2990e2e2f3e6d9b8a974c985.js": "/salary/precache-manifest.27041cbe2990e2e2f3e6d9b8a974c985.js",
+    "service-worker.js": "/salary/service-worker.js",
+    "static/css/2.36020323.chunk.css.map": "/salary/static/css/2.36020323.chunk.css.map",
+    "static/css/main.051db9bb.chunk.css.map": "/salary/static/css/main.051db9bb.chunk.css.map",
+    "static/js/2.7be13fa5.chunk.js.LICENSE.txt": "/salary/static/js/2.7be13fa5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1388e4ce.js",
+    "static/css/2.36020323.chunk.css",
+    "static/js/2.7be13fa5.chunk.js",
+    "static/css/main.051db9bb.chunk.css",
+    "static/js/main.11847f81.chunk.js"
+  ]
+}
